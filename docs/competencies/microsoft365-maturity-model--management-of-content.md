@@ -92,7 +92,7 @@ Types of content cover but are not limited to the following:
 - Structure
 - Platforms and tools
 - Information Architecture
-- ["Putability"](glossary.md#putability)
+- ["Putability"](/community-docs/articles/glossary.md#putability)
 - Duplicate management
 - Costs
 - Offline and sync
@@ -337,7 +337,7 @@ At this level you can expect the following:
 At this level you can expect the following:
 
 - ✨ Content is strongly managed across business applications and processes, feels largely seamless to users and is easy for them to recognize value in and adopt. Staff focus on task completion, contributing to content management consistently, recognizing that their contributions benefit other parts of the system.
-- In many cases, content storage is a function of the type of content and not at the discretion of staff; ["putability"](glossary.md#putability) decisions are driven by well-established principles that staff are fluent at applying.
+- In many cases, content storage is a function of the type of content and not at the discretion of staff; ["putability"](/community-docs/articles/glossary.md#putability) decisions are driven by well-established principles that staff are fluent at applying.
 - Productivity is consistently high and metrics are in place to identify and act on exceptions. Rework and errors are rare.
 - Staff intuitively use definitive reference content; they know how to validate that they are using appropriate information and are collectively confident of decisions based on their sources.
 - Content driven systems are routinely improved; feedback and monitoring mechanisms at granular and aggregate level continuously identify areas for improvement and enable programs of work to maintain productivity as the business landscape evolves.
@@ -385,7 +385,7 @@ At this level you can expect the following:
 
 ##### 500 Storage
 
-- ✨ There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. ["Putability"](glossary.md#putability) is actively guided or fully automated, based on AI classifiers.
+- ✨ There is a wide reaching, flexible and inclusive strategy for storage of all types of content which ensures everything is available to staff and partners who need it, regardless of location, device, region etc. ["Putability"](/community-docs/articles/glossary.md#putability) is actively guided or fully automated, based on AI classifiers.
 - Storage is largely "invisible" to staff. Content is created, stored and accessed without a need to learn the storage structures.
 - There are effectively no limits to the volume of storage or type of content that can be stored and accessed.
 
