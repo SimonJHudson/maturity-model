@@ -1,5 +1,5 @@
 ---
-title: Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 App
+title: Practical Scenarios – Servicing Microsoft 365 App
 ms.date: 10/9/2023
 author: michaelblumenthal
 ms.reviewer: pamgreen
@@ -8,11 +8,11 @@ ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description: Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps
+description: Practical Scenarios – Servicing Microsoft 365 Apps
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps  
+# Practical Scenarios – Servicing Microsoft 365 Apps  
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 

@@ -1,5 +1,5 @@
 ---
-title: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
+title: Practical Scenarios – Microsoft 365 Service Health Management
 ms.date: 12/16/2024
 author: michaelblumenthal
 ms.reviewer: pamgreen
@@ -8,7 +8,7 @@ ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority:  Low
-description: Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management
+description: Practical Scenarios – Microsoft 365 Service Health Management
 ms.collection: M365Community
 ---
 
