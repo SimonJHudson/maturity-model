@@ -78,6 +78,6 @@ All of the questions are answered, with answers frequently updated. Application 
 
 ---
 
-**Principal author**: [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
+**Principal author**: [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ---
