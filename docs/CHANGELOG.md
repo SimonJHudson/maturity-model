@@ -147,8 +147,8 @@ Note: Changelog started in January, 2021
 | Article | Principal Author |
 |---|---|
 | Practical Scenario: Enhancing Brand Management | [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/) |
-| Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
-| Understanding where your tenant's display name is used | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Health Management | [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/) |
+| Understanding where your tenant's display name is used | [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/) |
 | Maturity Model for Microsoft 365 - Management of Content Competency | [Simon Doy, MVP](https://www.linkedin.com/in/simondoy/) |
 | Microsoft 365 Search Technologies | [Dave Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)|
 
@@ -501,8 +501,8 @@ Note: Changelog started in January, 2021
 
 | Article | Principal Author |
 |---|---|
-| Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
-| Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management | [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/) |
+| Maturity Model for Microsoft 365 Practical Scenarios – Servicing Microsoft 365 Apps | [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/) |
+| Maturity Model for Microsoft 365 Practical Scenarios – Microsoft 365 Service Change Management | [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/) |
 
 ### Updated Articles - October, 2023
 
@@ -512,7 +512,7 @@ Note: Changelog started in January, 2021
 
 ### New Contributors - October, 2023
 
-- [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
+- [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ## September, 2023
 

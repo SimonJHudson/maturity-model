@@ -95,6 +95,6 @@ At Level 500, the organization has invested in a change management solution that
 
 This model is intended to give you a reference and some inspiration for improving your service change management processes. Feedback is always welcome.
 
-**Principal author**: [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
+**Principal author**: [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ---

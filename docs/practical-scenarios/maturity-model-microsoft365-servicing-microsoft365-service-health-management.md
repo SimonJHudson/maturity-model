@@ -65,6 +65,6 @@ The [Microsoft 365 Admin Center](https://admin.cloud.microsoft/#/homepage) provi
 
 ---
 
-**Principal author**: [Michael Blumenthal](https://www.linkedin.com/in/michaelbblumenthal/)
+**Principal author**: [Michael Blumenthal, MVP](https://www.linkedin.com/in/michaelbblumenthal/)
 
 ---
