@@ -17,6 +17,8 @@ Taking a holistic view of the technology through the lens of the Maturity Model 
 - Identify the budget and resources needed to move ahead
 - Establish a baseline to show improvement over time
 
+## Getting started
+
 If you're new to the Maturity Model for Microsoft 365, we recommend starting with the [Introduction to the Maturity Model for Microsoft 365](./overview/microsoft365-maturity-model--intro.md) article. It provides an overview of the model, its purpose, and how to use it effectively.
 
 If you've been here before and would like to dive in more deeply, we recommend starting with the [Competencies](competencies/microsoft365-maturity-model--competencies.md) article. It provides a detailed breakdown of the competencies and maturity levels, along with guidance on how to assess and improve your organization's Microsoft 365 adoption.
