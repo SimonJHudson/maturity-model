@@ -1,5 +1,5 @@
 ---
-title: Maturity Model for Microsoft 365 Practical Scenarios – Knowledge Management
+title: Practical Scenarios – Knowledge Management
 ms.date: 11/04/2025
 author: Bex-Sthlm
 ms.reviewer: pamgreen
@@ -8,11 +8,11 @@ ms.topic: overview
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description: Maturity Model for Microsoft 365 Practical Scenarios – Knowledge Management
+description: Practical Scenarios – Knowledge Management
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 Practical Scenarios – Knowledge Management
+# Practical Scenarios – Knowledge Management
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 

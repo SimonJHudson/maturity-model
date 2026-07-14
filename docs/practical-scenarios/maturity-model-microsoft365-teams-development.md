@@ -1,5 +1,5 @@
 ---
-title: Maturity Model for Microsoft 365 and Teams Development
+title: Practical Scenarios – Teams Development
 ms.date: 8/23/2022
 author: appieschot
 ms.reviewer: pamgreen
@@ -8,11 +8,11 @@ ms.topic: concept-article
 ms.author: pamgreen
 ms.service: microsoft-365
 ms.localizationpriority: Low
-description: Using the Microsoft Maturity model as a developer for building Microsoft Teams solutions
+description: Practical Scenarios – Teams Development
 ms.collection: M365Community
 ---
 
-# Maturity Model for Microsoft 365 and Teams Development
+# Practical Scenarios – Teams Development
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
